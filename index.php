@@ -13,6 +13,9 @@ $pageParams = [
         "head" => [
             ["type" => "css", "name" => "welcome"],
             ["type" => "js", "name" => "welcome"]
+        ],
+        "body" => [
+            ["type" => "js", "name" => "bodyScript"]
         ]
     ]
 ];
