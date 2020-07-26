@@ -8,5 +8,10 @@ by having a class that will load your page with the given parameters of "layout"
 This is not a redirect and/or Router type of thing, its just an approach to handle loading of pages with certain
 predefined layouts.
 
+## Feedback
+
+Feel free to open up an issue to discuss any feedback you might have regarding my approach.
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/gazmendrxdev/) and/or e-mail me at dexterr.gr@gmail.com :)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
