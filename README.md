@@ -1,2 +1,2 @@
-# php-layout
-Inspired by Laravel Blade Layouts - a way to handle pages with specific layouts with Core PHP.
+## What is this?
+A very simple approach to handle page layouts with Core PHP.
